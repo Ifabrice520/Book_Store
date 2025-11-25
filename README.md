@@ -1,6 +1,6 @@
-## Names:  ISHIMWE Fabrice
+## Names: ISHIMWE Fabrice
 
-## ID:  27111
+## ID: 27111
 
 **Bookstore Sales Tracker**  
 A PL/SQL teaching repository demonstrating records, collections (TABLE OF RECORD), and a guarded GOTO example — all built around a simple BOOK_SALES table.
@@ -9,9 +9,9 @@ A PL/SQL teaching repository demonstrating records, collections (TABLE OF RECORD
 
 ## Learning Goals
 
-- Use table-based records (%TYPE / RECORD) and collections.  
-- Demonstrate iteration over collections.  
-- See a minimal, safe GOTO demo for handling high-sale books.  
+- Use table-based records (%TYPE / RECORD) and collections.
+- Demonstrate iteration over collections.
+- See a minimal, safe GOTO demo for handling high-sale books.
 - Integration script prints each book’s revenue and total store revenue.
 
 ---
@@ -31,10 +31,11 @@ Run the scripts in order:
 02_process_sales.sql — demonstrates RECORD, COLLECTION, and GOTO to calculate revenue and high-sale bonuses.
 
 
-Screenshots
+### Screenshots
 
-Table creation and data insert
-screenshots/create_and_insert.PNG 
+**Table creation and data insert**
+![Table Creation](screenshots/create_and_insert.PNG)
 
-PL/SQL output (records + collection + GOTO)
-screenshots/PLSQL_Output.png
+**PL/SQL output (records + collection + GOTO)**
+![PL/SQL Output](screenshots/PLSQL_Output.png)
+```
