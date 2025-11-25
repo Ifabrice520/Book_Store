@@ -34,8 +34,8 @@ Run the scripts in order:
 ### Screenshots
 
 **Table creation and data insert**
-![Table Creation](screenshots/create%20and%20insert.PNG)
+![Table Creation](screenshots/create_and_insert.png)
 
 **PL/SQL output (records + collection + GOTO)**
-![PL/SQL Output](screenshots/PLSQL%20Output.png)
+![PL/SQL Output](screenshots/plsql_output.png)
 ```
