@@ -33,9 +33,10 @@ Run the scripts in order:
 
 ### Screenshots
 
-**Table creation and data insert**  
-![Table Creation](screenshots/create_and_insert.PNG)
+**Table creation and data insert**
+![Table Creation](screenshots/create_and_insert.png)
 
-**PL/SQL output**  
+**PL/SQL output**
 ![PL/SQL Output](screenshots/plsql_output.png)
 
+```
